@@ -1,0 +1,2 @@
+0 5 * * * ./blocksite.sh enable
+0 18 * * * ./blocksite.sh disable
